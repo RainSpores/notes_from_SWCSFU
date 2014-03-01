@@ -1,0 +1,12 @@
+Notes
+=======
+
+Work organization
+
+Use yyyy-mm-dd so that the dates organize chronologically. 
+Lab notebook – put in results directory. 
+Single experiment: 
+Readme file for each,
+  Runall file that runs everything: eg. run R script, save plots, put them in Latex or Word
+	Avoid editing intermediate files by hand. 
+	Use relative pathnames, not absolute – etc
